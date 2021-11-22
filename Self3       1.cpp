@@ -7,11 +7,4 @@ main(){
 	else baga=y;
 	printf("%.1f",baga);
 	
-	
-	
-	
-	
-	
-	
-	
 }
