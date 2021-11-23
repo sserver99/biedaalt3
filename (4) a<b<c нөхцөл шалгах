@@ -1,0 +1,16 @@
+#include<stdio.h>
+#include<stdlib.h>
+int main()                     // abc bodit toonuud ogogdow a<b<c nuhtsul bielj baigaag shalga
+   {
+  int a=22,b=123, c=121;
+  
+  if (a<b<c)
+  {
+  	printf("a<b<c Ni unen baina");
+									}                                  
+ else {
+ 	printf("Hudalaa baina");
+ }
+	 
+ return 0;
+}
