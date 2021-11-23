@@ -1,3 +1,4 @@
+                                MIN OF X,Y,Z
 #include<stdio.h>
 #include<stdlib.h>
 int main()
@@ -11,7 +12,7 @@ int main()
   system("pause");  
  return 0;
 }
-MAX OF X,Y,Z
+                                 MAX OF X,Y,Z
 #include <stdio.h>
 #include <conio.h>
 main(){
